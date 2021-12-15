@@ -8,7 +8,6 @@
 
 - 👨🏻‍💻  I work as an Software Specialist at [GBM](https://gbm.net)
 - 🐦  Follow me on Twitter [@vairome_](https://twitter.com/vairome_)
-- 😄  Pronouns: He/Him
 - ⚡ Fun fact: I'm not a Developer 🤡
 
 ## My skills, I suppose...
