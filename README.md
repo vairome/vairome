@@ -8,9 +8,9 @@
 
 - 👨🏻‍💻  I work as an Software Specialist at [GBM](https://gbm.net)
 - 🐦  Follow me on Twitter [@vairome_](https://twitter.com/vairome_)
-- ⚡ Fun fact: I'm not a Developer 🤡
+- 🥇  Check out my [Credly](https://www.credly.com/users/byron-murillo/badges)
 
-### My skills, I suppose...
+### Languages and technologies
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
