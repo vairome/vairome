@@ -6,7 +6,7 @@
 [![LinkedIn: Byron Murillo](https://img.shields.io/badge/ByronMurillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byron-murillo-7a5549146/)](https://www.linkedin.com/in/byron-murillo-7a5549146/)
 
 
-- 👨🏻‍💻  I work as an Software Specialist at [GBM](https://gbm.net)
+- 👨🏻‍💻  I work as a Software Specialist at [GBM](https://gbm.net)
 - 🥇  Check out my [Credly](https://www.credly.com/users/byron-murillo/badges)
 
 ### Languages and Tools
