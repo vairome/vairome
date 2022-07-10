@@ -1,12 +1,12 @@
 # Byron Murillo
-## Software Specialist at GBM
+## Developer & DevOps Practitioner
 
 [![Twitter: vairome_](https://img.shields.io/twitter/follow/vairome_?style=social)](https://twitter.com/vairome_)
 [![GitHub vairome](https://img.shields.io/github/followers/vairome?label=follow&style=social)](https://github.com/vairome)
-[![LinkedIn: Byron Murillo](https://img.shields.io/badge/ByronMurillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byron-murillo-7a5549146/)](https://www.linkedin.com/in/byron-murillo-7a5549146/)
+[![LinkedIn: Byron Murillo](https://img.shields.io/badge/ByronMurillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byron-murillo-7a5549146/)](https://www.linkedin.com/in/byronmurillo/)
 
 
-- 👨🏻‍💻  I work as a Software Specialist at [GBM](https://gbm.net)
+- 👨🏻‍💻  I'm currently work as a Software Specialist at [GBM](https://gbm.net)
 - 🥇  Check out my [Credly](https://www.credly.com/users/byron-murillo/badges)
 
 
