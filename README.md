@@ -1,15 +1,16 @@
-# Byron Murillo
-## Developer & DevOps Practitioner
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-[![Twitter: vairome_](https://img.shields.io/twitter/follow/vairome_?style=social)](https://twitter.com/vairome_)
-[![GitHub vairome](https://img.shields.io/github/followers/vairome?label=follow&style=social)](https://github.com/vairome)
-[![LinkedIn: Byron Murillo](https://img.shields.io/badge/ByronMurillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byron-murillo-7a5549146/)](https://www.linkedin.com/in/byronmurillo/)
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-
-- 👨🏻‍💻  AWS DevOps Engineer at [Applaudo Studios](https://applaudostudios.com/)
-- 🥇  Check out my [Credly](https://www.credly.com/users/byron-murillo/badges)
+My name is Byron Murillo. I'm a Software Engineer and DevOps Practitioner. I'm currently working at [Applaudo Studios](https://applaudostudios.com/)
+as an AWS DevOps Engineer.
 
 
+ ### 📫 How to reach me:
+  
+  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/vairome_)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/byronmurillo/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/byronmurillo_/)  &nbsp; <a href="mailto:bnmmelendez@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
@@ -26,6 +27,9 @@
 <a href="https://www.heroku.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
+---
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![vairome github stats](https://github-readme-stats.vercel.app/api?username=vairome&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vairome&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vairome&show_icons=true&locale=en&layout=compact" alt="anthonysnk" /></p>
 
