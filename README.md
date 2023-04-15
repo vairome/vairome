@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> About Me:
-My name is Byron Murillo. I'm a DevOps Practitioner. I'm currently working at Applaudo as an AWS DevOps Engineer.
+I'm a DevOps practitioner and cloud enthusiast. I'm currently working at Applaudo as an AWS DevOps Engineer.
 
 
 ## 🌐 Socials:
